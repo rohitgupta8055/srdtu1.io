@@ -1,0 +1,90 @@
+body{
+
+    margin: 0px 0px 0px 0px;
+}
+.top-line{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding:0 px;
+    display: flex;
+    justify-content:space-between;
+    
+
+}
+
+h1{
+    color: #fff;
+    text-shadow: 5px;
+    font-size: 1.8rem;
+}
+
+
+.p{
+    margin-top: 10%;
+    text-align: center;
+    margin-bottom: 10%;
+}
+.p1{
+    justify-content: center;
+    color: #0f0f13;
+    letter-spacing: 0.08rem;
+}
+
+.team{
+    margin-left: 47%;
+    
+}
+
+.contact-section{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: center;
+    justify-content: space-between;
+    
+    margin-left: 11%;
+    margin-right: 11%;
+    margin-bottom: 5%;
+}
+
+#contact-us{
+    height: auto; 
+    width:100%;
+    position:relative;
+    
+}
+
+#my-img{
+    height: 12rem;
+    width:12rem;
+    margin:auto;
+    /* margin-top: -17vh; */
+}
+#my-img img{
+    height: 100%;
+    width:100%;
+    border-radius:50%;
+    border: 2px solid white;
+    
+}
+#my-img img:hover{
+    box-shadow: 0px 0px 6px 4px rgba(139, 139, 139, 0.3);
+}
+
+.skill-progress{
+    width: 9rem;
+    height: 1.8rem;
+    background-color: lightgray;
+    border-radius: 1.5rem;
+    border: 2px solid black;
+    text-align: center;
+}
+.skill-name span{
+    
+    color: rgb(40, 17, 102);
+    font-size: 1.5rem;
+    
+
+}
+
